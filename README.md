@@ -15,15 +15,15 @@
 ### Pages
 
 
-[<img align="left" alt="schusterdotexe | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/><h3>www.instagram.com/schusterdotexe<h3/>][Instagram]
-[<img align="left" alt="schusterdotexe | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][Linkedin]
-[<img align="left" alt="schusterdotexe | YouTube" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tiktok.svg" />][TikTok]
-[<img align="left" alt="schusterdotexe | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][Twitter]
+[<img align="left" alt="schusterdotexe | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/><h5>www.instagram.com/schusterdotexe<h5/>][Instagram]
+[<img align="left" alt="schusterdotexe | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /><h5>www.linkedin.com/in/schusterexequielandres<h5/>][Linkedin]
+[<img align="left" alt="schusterdotexe | YouTube" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tiktok.svg" /><h5>www.tiktok.com/@schusterdotexe<h5/>][TikTok]
+[<img align="left" alt="schusterdotexe | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /><h5>twitter.com/schusterdotexe<h5/>][Twitter]
 
 [Instagram]: https://www.instagram.com/schusterdotexe
 [Linkedin]: https://www.linkedin.com/in/schusterexequielandres
 [TikTok]: https://www.tiktok.com/@schusterdotexe
-[Twitter]: https://twitter.com/schusterdotexe
+[Twitter]: https://www.twitter.com/schusterdotexe
 
 <br />
 
