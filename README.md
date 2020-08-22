@@ -8,7 +8,7 @@
 - Nature 🌴
 
 ---
-<img alighn='left' alt="Exequiel Schuster GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ExequielSchuster&show_icons=true&count_private=true&theme=gruvbox"/>
+<img alighn='left' alt="Exequiel Schuster GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ExequielSchuster&show_icons=true&count_private=true&theme=tokyonight"/>
 
 <br />
 
