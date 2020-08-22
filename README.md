@@ -8,10 +8,11 @@
 - Nature 🌴
 
 ---
-<img alighn='left' alt="Exequiel Schuster GitHub Stats" src="https://github-readme-stats.vercel.app/api?ExequielSchuster=anuraghazra&show_icons=true&count_private=true&theme=gruvbox"/>
+<img alighn='left' alt="Exequiel Schuster GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ExequielSchuster&show_icons=true&count_private=true&theme=gruvbox"/>
 
 <br />
-## Pages
+
+### Pages
 
 [<img align="left" alt="schusterdotexe | YouTube" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tiktok.svg" />][TikTok]
 [<img align="left" alt="schusterdotexe | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][Twitter]
