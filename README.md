@@ -15,7 +15,7 @@
 ### Pages
 
 
-[<img align="left" alt="schusterdotexe | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg">Instagram</>][Instagram]
+[<img align="left" alt="schusterdotexe | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/><h3>www.instagram.com/schusterdotexe<h3/>][Instagram]
 [<img align="left" alt="schusterdotexe | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][Linkedin]
 [<img align="left" alt="schusterdotexe | YouTube" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tiktok.svg" />][TikTok]
 [<img align="left" alt="schusterdotexe | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][Twitter]
@@ -28,7 +28,7 @@
 <br />
 
 ### Spotify Playing 🎧 
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" alt="Schuster Spotify" width="350" />](https://open.spotify.com/user/exequiel97sch)
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" alt="Schuster Spotify" width="40" />](https://open.spotify.com/user/exequiel97sch)
 <!--
 **ExequielSchuster/ExequielSchuster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
