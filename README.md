@@ -1,4 +1,4 @@
-### Hi there, I'm Exequiel! 
+### Hi there, I'm Exequiel!  😎 
 <br />
 
 - Information Systems Engineering student! 💻
@@ -8,16 +8,17 @@
 - Nature 🌴
 
 ---
-<img alighn='left' alt="Exequiel Schuster GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ExequielSchuster&show_icons=true&count_private=true&theme=tokyonight"/>
+<img alighn='left' alt="Exequiel Schuster GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ExequielSchuster&show_icons=true&count_private=true&theme=dracula"/>
 
 <br />
 
 ### Pages
 
+
+[<img align="left" alt="schusterdotexe | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Instagram]
+[<img align="left" alt="schusterdotexe | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][Linkedin]
 [<img align="left" alt="schusterdotexe | YouTube" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tiktok.svg" />][TikTok]
 [<img align="left" alt="schusterdotexe | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][Twitter]
-[<img align="left" alt="schusterdotexe | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][Linkedin]
-[<img align="left" alt="schusterdotexe | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Instagram]
 
 [Instagram]: https://www.instagram.com/schusterdotexe
 [Linkedin]: https://www.linkedin.com/in/schusterexequielandres
