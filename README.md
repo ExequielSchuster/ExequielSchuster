@@ -28,7 +28,7 @@
 <br />
 
 ### Spotify Playing 🎧 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Schuster Spotify Playing" width="350" />](https://open.spotify.com/user/exequiel97sch)
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" alt="Schuster Spotify" width="350" />](https://open.spotify.com/user/exequiel97sch)
 <!--
 **ExequielSchuster/ExequielSchuster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
