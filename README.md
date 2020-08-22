@@ -24,6 +24,8 @@
 [TikTok]: https://www.tiktok.com/@schusterdotexe
 [Twitter]: https://twitter.com/schusterdotexe
 
+<br />
+
 ### Spotify Playing 🎧 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Schuster Spotify Playing" width="350" />](https://open.spotify.com/user/exequiel97sch)
 <!--
