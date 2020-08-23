@@ -7,9 +7,8 @@
 - Draw and paint 🖌
 - Nature 🌴
 
----
 <img alt="Exequiel Schuster GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ExequielSchuster&show_icons=true&count_private=true&theme=dracula"/>
-
+---
 ### Pages
 [<img padding-left="25px" align="left" alt="schusterdotexe | Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>][Instagram]
 [<img align="left" alt="schusterdotexe | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][Linkedin]
@@ -20,7 +19,7 @@
 [Linkedin]: https://www.linkedin.com/in/schusterexequielandres
 [TikTok]: https://www.tiktok.com/@schusterdotexe
 [Twitter]: https://www.twitter.com/schusterdotexe
-
+---
 <br />
 
 ### Spotify Profile 🎧 
