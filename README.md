@@ -23,7 +23,6 @@
 [Twitter]: https://www.twitter.com/schusterdotexe
 
 <br />
----
 
 ### Spotify Profile 🎧 
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" alt="Schuster Spotify" width="30" margin="auto" />](https://open.spotify.com/user/exequiel97sch)
