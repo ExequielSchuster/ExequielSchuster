@@ -12,17 +12,16 @@
 <br />
 
 ### Pages
-[<img align="center" alt="schusterdotexe | Instagram" width="35px" padding="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>][Instagram]
-[<img align="center" alt="schusterdotexe | LinkedIn" width="35px" padding="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][Linkedin]
-[<img align="center" alt="schusterdotexe | YouTube" width="35px" padding="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tiktok.svg" />][TikTok]
-[<img align="center" alt="schusterdotexe | Twitter" width="35px" padding="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][Twitter]
+[<img alt="schusterdotexe | Instagram" width="35px" padding="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>][Instagram]
+[<img alt="schusterdotexe | LinkedIn" width="35px" padding="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][Linkedin]
+[<img alt="schusterdotexe | YouTube" width="35px" padding="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tiktok.svg" />][TikTok]
+[<img alt="schusterdotexe | Twitter" width="35px" padding="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][Twitter]
 
 [Instagram]: https://www.instagram.com/schusterdotexe
 [Linkedin]: https://www.linkedin.com/in/schusterexequielandres
 [TikTok]: https://www.tiktok.com/@schusterdotexe
 [Twitter]: https://www.twitter.com/schusterdotexe
 
-<br />
 <br />
 
 ### Spotify Profile 🎧 
