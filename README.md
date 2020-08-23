@@ -15,7 +15,7 @@
 ### Pages
 
 
-[<img align="left" alt="schusterdotexe | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/><h5>www.instagram.com/schusterdotexe<h5/>][Instagram]
+[<img align="left" alt="schusterdotexe | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>][Instagram]
 [<img align="left" alt="schusterdotexe | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /><h5>www.linkedin.com/in/schusterexequielandres<h5/>][Linkedin]
 [<img align="left" alt="schusterdotexe | YouTube" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tiktok.svg" /><h5>www.tiktok.com/@schusterdotexe<h5/>][TikTok]
 [<img align="left" alt="schusterdotexe | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /><h5>twitter.com/schusterdotexe<h5/>][Twitter]
@@ -28,7 +28,7 @@
 <br />
 
 ### Spotify Playing 🎧 
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" alt="Schuster Spotify" width="40" />](https://open.spotify.com/user/exequiel97sch)
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" alt="Schuster Spotify" width="40" align="center" />](https://open.spotify.com/user/exequiel97sch)
 <!--
 **ExequielSchuster/ExequielSchuster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
