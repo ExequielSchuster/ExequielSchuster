@@ -8,7 +8,7 @@
 - Nature 🌴
 
 ---
-<img alighn='center' alt="Exequiel Schuster GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ExequielSchuster&show_icons=true&count_private=true&theme=dracula"/>
+<img align='center' alt="Exequiel Schuster GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ExequielSchuster&show_icons=true&count_private=true&theme=dracula"/>
 
 ### Pages
 [<img padding-left="25px" align="left" alt="schusterdotexe | Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>][Instagram]
@@ -24,7 +24,7 @@
 <br />
 
 ### Spotify Profile 🎧 
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" alt="Schuster Spotify" width="40" margin="auto" />](https://open.spotify.com/user/exequiel97sch)
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" alt="Schuster Spotify" width="30" margin="auto" />](https://open.spotify.com/user/exequiel97sch)
 <!--
 **ExequielSchuster/ExequielSchuster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
