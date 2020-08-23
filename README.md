@@ -8,7 +8,7 @@
 - Nature 🌴
 
 ---
-<img align='center' alt="Exequiel Schuster GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ExequielSchuster&show_icons=true&count_private=true&theme=dracula"/>
+<img align='center' margin-left="20px" alt="Exequiel Schuster GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ExequielSchuster&show_icons=true&count_private=true&theme=dracula"/>
 
 ### Pages
 [<img padding-left="25px" align="left" alt="schusterdotexe | Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>][Instagram]
